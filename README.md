@@ -20,7 +20,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[IMC](https://careers.imc.com/us/en/c/graduates-jobs) | Chicago, Sydney, Amsterdam | Software, Hardware, Quant Trader|
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | New York | Software Engineer|
 |[LeetCode](https://www.cognitoforms.com/LeetCodeLLC/LeetCodeFullStackEngineerApplicationNewGrad)| | |
-|[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4798943002?foo=bar)| Chicago, Illinois | Software Engineer |
+|[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/510831/)| Chicago, Illinois | Software Engineer |
 |[VMWare](https://careers.vmware.com/new-graduates/jobs/R2009349?lang=en-us)| Palo Alto, CA| |
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=graduate&location=&facetcountry=us) | Various | Software Engineer |
 |[Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49)| Mtn. View, CA | |
